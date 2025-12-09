@@ -8,19 +8,21 @@ Each project lives in its own folder and includes its own detailed README.
 ## 🗂️ Project List
 
 - **Iris Classification KNN**  
-  A full machine learning workflow using the Iris dataset, applying K-Nearest Neighbors to classify flower species and evaluating model performance with confidence intervals and cross-validation.
+  A full machine learning workflow using the Iris dataset, applying K-Nearest Neighbors to classify flower species and evaluating model performance with confidence intervals and cross-validation. Project made out of personal interest
 
 - **Cluster–Voronoi Visualization**  
-  A geometric exploration of how k-NN (k=1) decision boundaries relate to Voronoi diagrams, using a wine dataset and high-resolution visualizations.
+  A geometric exploration of how k-NN (k=1) decision boundaries relate to Voronoi diagrams, using a wine dataset and high-resolution visualizations. Project made out of personal interest
+
 
 - **Optimization Using Pyomo**  
-  A linear optimization model for profit maximization across advertising channels, implemented with Pyomo and solved using GLPK.
+  A linear optimization model for profit maximization across advertising channels, implemented with Pyomo and solved using GLPK. This project was done for homework 1 of "Optimization for large-scale data"
 
 - **API-WorldBank**  
-  A master project to test APIs. We tested different endpoints from the World Bank to obtain some data. We structured the result json file to get it in a specified structure.
+  A Python client that queries the World Bank's API, focusing on data retrieval, dynamic URL construction for specific indicators and countries, and response parsing for economic analysis.
+  This project was lab 1 of the course "Internet Contents Distribution"
 
 - **API-Creation**  
-  A master project from the course "Internet content distribution". The objective of this lab is to create a client-server paradigm where the client asks the server for some data via API requests. The endpoints were manually created. 
+  A foundational project implementing a custom HTTP API server in Python using http.server, demonstrating data handling, query filtering, and authentication with access tokens (as detailed in our previous conversation). This project was lab 2 of the course "Internet Contents Distribution"
 
 ---
 
