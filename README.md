@@ -24,6 +24,9 @@ Each project lives in its own folder and includes its own detailed README.
 - **API-Creation**  
   A foundational project implementing a custom HTTP API server in Python using http.server, demonstrating data handling, query filtering, and authentication with access tokens (as detailed in our previous conversation). This project was lab 2 of the course "Internet Contents Distribution"
 
+- **BigBasket-Analysis**
+  A basis analyis on a database collecting products, prices and ratings from an Indian Supermarket. The idea is to predict the rating of certain products using linear regression.
+
 ---
 
 More projects will be added over time.
