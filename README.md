@@ -26,6 +26,7 @@ Each project lives in its own folder and includes its own detailed README.
 
 - **BigBasket-Analysis**
   A basis analyis on a database collecting products, prices and ratings from an Indian Supermarket. The idea is to predict the rating of certain products using linear regression.
+  
 - **PCA – World Happiness Index**
   An exploratory analysis applying Principal Component Analysis to the World Happiness dataset. Two approaches are implemented: a manual PCA built from first principles and a PCA using the scikit-learn library. Both methods yield equivalent results, confirming the correctness of the implementation. For practical use and computational efficiency, the scikit-learn approach is recommended.
 
