@@ -98,5 +98,3 @@ This provides economic insight into **which constraints are most critical**.
 
 ---
 
-## 📁 Project Structure
-
