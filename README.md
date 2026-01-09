@@ -28,6 +28,9 @@ Each project lives in its own folder and includes its own detailed README.
   A basis analyis on a database collecting products, prices and ratings from an Indian Supermarket. The idea is to predict the rating of certain products using linear regression.
 - **PCA – World Happiness Index**
   An exploratory analysis applying Principal Component Analysis to the World Happiness dataset. Two approaches are implemented: a manual PCA built from first principles and a PCA using the scikit-learn library. Both methods yield equivalent results, confirming the correctness of the implementation. For practical use and computational efficiency, the scikit-learn approach is recommended.
+
+- **Hospital Resource Optimization**
+  A Python-based linear and integer optimization model for multi-period hospital planning, focusing on resource allocation across departments and shifts using Pyomo, with analysis of primal, integer, and dual formulations to study efficiency and integrality gaps.
 ---
 
 More projects will be added over time.
