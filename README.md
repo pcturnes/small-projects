@@ -27,17 +27,17 @@ Each project lives in its own folder and includes its own detailed README.
   A foundational project implementing a custom HTTP API server in Python using `http.server`, demonstrating data handling, query filtering, and authentication with access tokens.  
   This project was lab 2 of the course *Internet Contents Distribution*.
 
-- **BigBasket-Analysis**  
+- **BigBasket-Analysis**     
   A basic analysis of a database collecting products, prices, and ratings from an Indian supermarket.  
   The goal is to predict product ratings using linear regression.
 
-- **PCA – World Happiness Index**  
+- **PCA – World Happiness Index**     
   An exploratory analysis applying Principal Component Analysis to the World Happiness dataset.  
   Two approaches are implemented: a manual PCA built from first principles and a PCA using the scikit-learn library.  
   Both methods yield equivalent results, confirming the correctness of the implementation.  
   For practical use and computational efficiency, the scikit-learn approach is recommended.
 
-- **Hospital Resource Optimization**  
+- **Hospital Resource Optimization**     
   A Python-based linear and integer optimization model for multi-period hospital planning, focusing on resource allocation across departments and shifts using Pyomo.  
   Includes analysis of primal, integer, and dual formulations to study efficiency and integrality gaps.
 
